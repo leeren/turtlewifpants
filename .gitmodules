@@ -3,4 +3,4 @@
 	url = https://github.com/foundry-rs/forge-std
 [submodule "lib/joe-v2"]
 	path = lib/joe-v2
-	url = https://github.com/leeren/joe-v2
+	url = https://github.com/traderjoe-xyz/joe-v2
