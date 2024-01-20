@@ -1,6 +1,5 @@
 ds-test/=lib/forge-std/lib/ds-test/src/
 erc4626-tests/=lib/joe-v2/lib/openzeppelin-contracts/lib/erc4626-tests/
 forge-std/=lib/forge-std/src/
-joe-v2-test/=lib/joe-v2/test/
-openzeppelin-contracts/=lib/joe-v2/lib/openzeppelin-contracts/
-openzeppelin/=lib/joe-v2/lib/openzeppelin-contracts/contracts/
+joe-v2/test/=lib/joe-v2/test/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
